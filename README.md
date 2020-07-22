@@ -1,3 +1,3 @@
 # Data-Quest-Guided-Project
 
-Warehouse for Dataquest guided project
+Dataquest guided project warehouse.
